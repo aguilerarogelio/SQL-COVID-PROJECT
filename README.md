@@ -1,4 +1,4 @@
-#COVID-19 Data Exploration and Analysis Project
+# COVID-19 Data Exploration and Analysis Project
 This project involves a comprehensive exploration, cleansing, and analysis of COVID-19 data using SQL. The dataset includes COVID-19 cases, deaths, and vaccination data from various locations globally. The main goals of the project are to explore relationships between infection rates, death counts, and vaccination efforts across different regions, and to prepare insights for data visualization platforms like Tableau.
 
 Data Exploration:
